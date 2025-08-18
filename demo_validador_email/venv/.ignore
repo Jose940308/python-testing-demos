@@ -1,9 +1,0 @@
-# Ignorar la carpeta del entorno virtual de Python para este demo
-venv/
-
-# Ignorar la carpeta de resultados de pruebas para este demo
-results/
-
-# Ignorar archivos caché de Python
-__pycache__/
-*.pyc
